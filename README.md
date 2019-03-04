@@ -1,5 +1,5 @@
 # Optical Recognition Translator
-Thanks to OCR and Watson Language Translator, this program is able to take as input an image (.jpg) with a printed text on and it gives back as output the translated text. 
+Think about being in a traditional Chinese restaurant, everything is written in Chinese and even reading the menu become hard. What if it was possible to take a picture of the menu and get a real- time translation? This project has the aim to prove how, combining 2 innovative technologies, it’s possible to get a new application. The program, using OCR and Watson Language Translator technologies, is able to recognize the text inside an image (.jpg) and translate it into another language. First we will analyze how these technologies works, then we’ll focus on the code explaining how does it work. The code has been entirely designed and written by Davide Monina and Matteo Bonadies.
 
 ## Requirements to run the program
 Install Homebrew from 
